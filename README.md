@@ -1,7 +1,6 @@
-# seatable scripts 
+# SeaTable Scripts 
 
-> [beta] This is not the code used for the `production level', please pay attention to some of the differences when using it in your environment.
-
+> [Warnning] This is not the code used for the `production level', please pay attention to some of the differences when using it in your environment.
 
 ## Introduction
 
